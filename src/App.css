@@ -1,0 +1,9 @@
+.chats {
+    display: flex;
+    justify-content: center;
+}
+
+.delete {
+    margin-right: 10px;
+    cursor: pointer;
+}
